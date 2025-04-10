@@ -23,7 +23,7 @@ repository               : "xiangliu-xjtu/xiangliu-xjtu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiang Liu (刘翔)"
+  name             : "Xiang Liu (刘翔)\n"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Xi'an, China" # Location/City
