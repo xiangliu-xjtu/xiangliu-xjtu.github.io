@@ -19,22 +19,19 @@ Education
 Skills
 ======
 * C/ C++/ Python/ MATLAB/ CUDA/ MPI
-<!-- * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* FLUENT/ 
+* CAD
 
 Publications
 ======
-* **Liu, X.**, Tong, Z. X., & He, Y. L. (2022). Temporary velocity correction-based immersed boundary–lattice Boltzmann method for incompressible flows in porous media at representative elementary volume scale. Physics of Fluids, 34(4).
-* **Liu, X.**, Tong, Z. X., & He, Y. L. (2022). Enthalpy-based immersed boundary-lattice Boltzmann model for solid-liquid phase change in porous media under local thermal non-equilibrium condition. International Journal of Thermal Sciences, 182, 107786.
-* **Liu, X.**, Tong, Z. X., He, Y. L., Du, S., & Li, M. J. (2024). Enthalpy-based cascaded lattice Boltzmann method for conjugate heat transfer. International Communications in Heat and Mass Transfer, 159, 107956.
 * **Liu, X.**, Tong, Z. X., & He, Y. L. (2025). Insight into enthalpy-based lattice Boltzmann method for solid-liquid phase change without numerical diffusion. International Journal of Heat and Mass Transfer, 239, 126534.
+* **Liu, X.**, Tong, Z. X., He, Y. L., Du, S., & Li, M. J. (2024). Enthalpy-based cascaded lattice Boltzmann method for conjugate heat transfer. International Communications in Heat and Mass Transfer, 159, 107956.
+* **Liu, X.**, Tong, Z. X., & He, Y. L. (2022). Enthalpy-based immersed boundary-lattice Boltzmann model for solid-liquid phase change in porous media under local thermal non-equilibrium condition. International Journal of Thermal Sciences, 182, 107786.
+* Wang, S. C., Tong, Z. X., He, Y. L., & **Liu, X**. (2022). Unit conversion in pseudopotential lattice Boltzmann method for liquid–vapor phase change simulations. Physics of Fluids, 34(10).
+* **Liu, X.**, Tong, Z. X., & He, Y. L. (2022). Temporary velocity correction-based immersed boundary–lattice Boltzmann method for incompressible flows in porous media at representative elementary volume scale. Physics of Fluids, 34(4).
 * **刘翔**, 童自翔, 何雅玲, 俞逸斯, & 汪思成. (2024). 求解流动传热问题的简化离散速度热格子Boltzmann通量求解器研究. 工程热物理学报, 45(11), 3474-3479.
 * **刘翔**，童自翔，汪思成，& 何雅玲. (2024). 耦合流体体积和水平集方法的自由面流动格子Boltzmann模型. 中国科学: 技术科学, 54, 2095-2106.
-* Wang, S. C., Tong, Z. X., He, Y. L., & **Liu, X**. (2022). Unit conversion in pseudopotential lattice Boltzmann method for liquid–vapor phase change simulations. Physics of Fluids, 34(10).
-  
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
