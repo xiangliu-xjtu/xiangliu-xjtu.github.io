@@ -32,6 +32,12 @@ Publications
 * **刘翔**, 童自翔, 何雅玲, 俞逸斯, & 汪思成. (2024). 求解流动传热问题的简化离散速度热格子Boltzmann通量求解器研究. 工程热物理学报, 45(11), 3474-3479.
 * **刘翔**，童自翔，汪思成，& 何雅玲. (2024). 耦合流体体积和水平集方法的自由面流动格子Boltzmann模型. 中国科学: 技术科学, 54, 2095-2106.
 
+Honors and Awards
+=====
+* first China Association for Science and Technology young talent lifting project (doctoral student program), 2025
+
+* Xu Zongben Applied Mathematics Paper Prize, 2025
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
