@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Energy and Power Engineering, Xi'an Jiaotong Univeristy. My research interest includes computational fluid dynamics (CFD), lattice Boltzmann method (LBM), and high performance computing.
+I am a PhD student at the School of Energy and Power Engineering, Xi'an Jiaotong Univeristy. My research interest includes **computational fluid dynamics (CFD)**, **lattice Boltzmann method (LBM)**, **multiphase flow and phase-change heat transfer**, and **high performance computing**.
 
 
 Education
@@ -15,12 +15,7 @@ Education
 * Ph.D student at Power Engineering and Engineering Thermophysics, Xi'an Jiaotong University, 2019.09 - present
 * Visiting Ph.D student at Department of Mechanical Engineering, University College London, 2024.01 - 2025.01
 * B.S. in Engineering, Xi'an Jiaotong University, 2019
-  
-Skills
-======
-* C/ C++/ Python/ CUDA/ MPI/ MATLAB
-* FLUENT 
-* CAD
+
 
 Publications
 ======
@@ -32,11 +27,11 @@ Publications
 * **刘翔**, 童自翔, 何雅玲, 俞逸斯, & 汪思成. (2024). 求解流动传热问题的简化离散速度热格子Boltzmann通量求解器研究. 工程热物理学报, 45(11), 3474-3479.
 * **刘翔**，童自翔，汪思成，& 何雅玲. (2024). 耦合流体体积和水平集方法的自由面流动格子Boltzmann模型. 中国科学: 技术科学, 54, 2095-2106.
 
+
 Honors and Awards
 =====
-* first China Association for Science and Technology young talent lifting project (doctoral student program), 2025
-
-* Xu Zongben Applied Mathematics Paper Prize, 2025
+* $1^{\rm {st}}$ China Association for Science and Technology young talent lifting project (doctoral student program), 2025
+* $10^{\rm {th}}$ Xu Zongben Applied Mathematics Paper Prize, 2025
 
 <!-- Talks
 ======
